@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on compilers during my free times<br>👯 I’m looking to collaborate on math / physics related projects<br>🌱 I’m currently learning Data Science<br>🏦 Interested in mathematics, physics and finance.
 
 
