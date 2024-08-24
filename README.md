@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luismonz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luismonz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luismonz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-gilt-21.vercel.app/api/top-langs/?username=luismonz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=rich%20text%20format,tex&langs_count=18)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=luismonz&icon=0&color=0)](https://visitcount.itsvg.in)
