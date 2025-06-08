@@ -3,8 +3,10 @@
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismonz/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10665347/luismonz) 
 [![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white)](https://x.com/luismonz7)
+[![Scrum Alliance](https://img.shields.io/badge/-Scrum_Alliance-006F6A?logo=scrumalliance&logoColor=white)](https://www.scrumalliance.org/members/1759892)
 
 # 🎓 Certifications:
 [![Scrum Master](https://img.shields.io/badge/Scrum_Master-Certified-green)](https://bcert.me/bc/html/show-badge.html?b=oxmmrtbk)
